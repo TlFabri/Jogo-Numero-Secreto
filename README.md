@@ -12,5 +12,5 @@
 
 # Time
 
- | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/154623272?s=400&u=59e5b1f7c39ddbace8f17b4e104d8e96aed3abd2&v=4" width=115><br><sub> Thiago Fabri </sub>](https://github.com/TlFabri) |   |
+ | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/202474042?s=400&u=a642f24f6cd43cb635e42bd9a9c57a9099ffb54a&v=4" width=115><br><sub> Thiago Fabri </sub>](https://github.com/TlFabri) |   |
 | :---: | :---: |
